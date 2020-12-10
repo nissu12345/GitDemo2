@@ -14,6 +14,8 @@ System.setProperty("webdriver.chrome.driver","D:\\Selenium Files\\chromedriver.e
 					WebDriver driver = new ChromeDriver();
 					
 driver.get("htpps://fb.com");
+
+System.out.println("hii there");
 	}
 
 }
