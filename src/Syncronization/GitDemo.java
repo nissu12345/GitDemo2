@@ -22,6 +22,9 @@ System.out.println("hii ");
 System.out.println("today is friday..");
 
 System.out.println("great, get reddy for prayers");
+
+
+System.out.println("this is branching concept");
 	}
 
 }
