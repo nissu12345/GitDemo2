@@ -25,6 +25,8 @@ System.out.println("great, get reddy for prayers");
 
 
 System.out.println("this is branching concept");
+
+System.out.println("to work on branch you should create a branch and operate on it,then commit");
 	}
 
 }
