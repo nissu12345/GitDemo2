@@ -20,6 +20,8 @@ System.out.println("hii ");
 
 
 System.out.println("today is friday..");
+
+System.out.println("great, get reddy for prayers");
 	}
 
 }
